@@ -1,0 +1,9 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"d:/CSE3902/Sprint0/Content/GameFont.spritefont","d:/CSE3902/Sprint0/Content/bin/DesktopGL/GameFont.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21529,0.2411053
+"d:/CSE3902/Sprint0/Content/images/backgroundsprite.png","d:/CSE3902/Sprint0/Content/bin/DesktopGL/images/backgroundsprite.xnb","TextureProcessor","Texture2DContent",1888223,6400085,0.1565455
+"d:/CSE3902/Sprint0/Content/images/catpixil.png","d:/CSE3902/Sprint0/Content/bin/DesktopGL/images/catpixil.xnb","TextureProcessor","Texture2DContent",193999,998005,0.0330538
+"d:/CSE3902/Sprint0/Content/images/catsprite.png","d:/CSE3902/Sprint0/Content/bin/DesktopGL/images/catsprite.xnb","TextureProcessor","Texture2DContent",1426520,5783445,0.1957459
+"d:/CSE3902/Sprint0/Content/images/catspritebg.png","d:/CSE3902/Sprint0/Content/bin/DesktopGL/images/catspritebg.xnb","TextureProcessor","Texture2DContent",194828,998005,0.0487733
+"d:/CSE3902/Sprint0/Content/images/coinpixil.png","d:/CSE3902/Sprint0/Content/bin/DesktopGL/images/coinpixil.xnb","TextureProcessor","Texture2DContent",2395,4181,0.0112705
+"d:/CSE3902/Sprint0/Content/images/coinsprite.png","d:/CSE3902/Sprint0/Content/bin/DesktopGL/images/coinsprite.xnb","TextureProcessor","Texture2DContent",247234,1439461,0.064811
+"d:/CSE3902/Sprint0/Content/images/coinspritebg.png","d:/CSE3902/Sprint0/Content/bin/DesktopGL/images/coinspritebg.xnb","TextureProcessor","Texture2DContent",43218,997105,0.0506381
